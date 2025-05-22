@@ -9,7 +9,6 @@ I'm **Alauddin Khan**, a full-stack developer turning caffeine into clean code. 
 - 🏘️ **[Ewanc Real Estate](https://ewanc.com/)** – Vue.js + Laravel platform for property listings with Pinia for state management.
 - 🍽️ **[Halal Now (HMC)](https://play.google.com/store/apps/details?id=com.eatkareem.halalnow&hl=en&gl=US&pli=1)** – Food ordering platform.
 - 🧾 **[AntonX POS](https://posfrontend.antonx.com/)** – Point-of-Sale system for retail businesses.
-- 🏡 **[DVC Sales](https://dvcsales.com/)** – Real estate platform for property listings.
 - 🌍 **[Harvard Business Council](https://hbcworld.org/)** – Platform for international award applications.
 - 🧰 **[MaxBitz Portfolio](https://maxbitz.com/)** – Corporate portfolio for showcasing services.
 - 🪙 **Quince Crypto** – Real-time cryptocurrency transaction tracking.
