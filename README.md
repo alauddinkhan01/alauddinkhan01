@@ -1,4 +1,4 @@
-<h1 align="center"> Ahoy, fellow code adventurers! 🏴‍☠️</h1>
+<h1 align="center">Transforming Ideas into Impactful Applications</h1>
 
 I'm **Alauddin Khan**, a full-stack developer turning caffeine into clean code. Whether it's spinning up Laravel backends or crafting elegant interfaces with Vue and React, I’m on a mission to bring powerful digital experiences to life.
 
