@@ -73,7 +73,7 @@ I'm **Alauddin Khan**, a full-stack developer turning caffeine into clean code. 
 ---
 
 ## ⚓ Let's Set Sail
-- [LinkedIn](https://www.linkedin.com/in/alauddin-khan-728860231/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alauddin-khan-728860231/)
 - 📧 Email: alauddinkhankpk@gmail.com
 - 📍 Location: Dir Upper, KPK, Pakistan
   
